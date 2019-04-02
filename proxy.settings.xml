@@ -1,0 +1,10 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="proxylatam.indra.es" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="10.240.195.148;*.indra.es;*indra.es;*.indrabmb.es;*.indraweb.net;ecossii.intranet.gasnatural.com;wscepsint.intranet.gasnaturalfenosa.com;gntest.gasnatural.com;10.99.66.20;gntest.gasnatural.com" />
+  </component>
+</application>
